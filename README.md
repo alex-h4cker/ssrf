@@ -67,6 +67,7 @@ Parameters that may have an SSRF vulnerability
 file uoload - ssrf
 
 Web applications commonly utilize PDF generation libraries to generate PDF documents. These pages usually allow users to input the data and then generate a PDF document
+
 Some of the most popular PDF generation libraries used in web applications :
 
     TCPDF
